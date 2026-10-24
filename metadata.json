@@ -1,0 +1,6 @@
+{
+  "name": "Mellow Bakery | 프리미엄 수제 디저트 & 부티크",
+  "description": "사랑스럽고 따뜻한 감성, 좋은 재료로 빚어낸 프리미엄 수제 디저트 베이커리 및 온라인 쇼핑몰",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
